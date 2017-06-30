@@ -31,7 +31,7 @@ import pub.devrel.easypermissions.EasyPermissions;
 
 public class MainAty extends Activity implements EasyPermissions.PermissionCallbacks {
 
-    public final static String TAG = "MainAty";
+    public final static String TAG = "MiniApps_dev_2.0";
     public static MainAty context;
     EditText editText;
     public WebView webView;
